@@ -1,6 +1,6 @@
 # Jenkins Report Generator
 A Python project retrieves Jenkins job information and generates a report in Excel format.
-可以獲取Jenkins作業資訊並生成Excel格式的報告的Python專案。
+可以獲取Jenkins任務資訊並生成Excel格式的報告的Python專案。
 
 ## Prerequisites
 - Python 3.7 or higher
